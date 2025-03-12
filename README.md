@@ -1,7 +1,7 @@
 # Data_Science_RAPIDS_and_more
 
 
-- Deploy the tutorial Jupyter Notebook [ECG outlier detection](ECG_outlier_detection.ipynb) on a cloud instance through **NVIDIA Brev**.
+- Deploy the tutorial Jupyter Notebook [ECG outlier detection](ECG_outlier_detection.ipynb) on a cloud instance through [**NVIDIA Brev**](https://developer.nvidia.com/brev).
     - **Creat a Brev Account** if you haven't already. Click the “Create an account” button in the top right corner of the Brev Console [console.brev.dev](https://console.brev.dev/org/org-2tcmRZuGMBx9Wlh2bxmuIdGb6UN/environments).
     - Brev Launchable links for 
         - running on an A100 instance https://console.brev.dev/launchable/deploy?launchableID=env-2uB4YGj1Vwn5uMHu3FSimBDPw1C
