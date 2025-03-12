@@ -9,4 +9,4 @@
 
 - The tutorial Jupyter Noteboook [ECG outlier detection](ECG_outlier_detection.ipynb) was slightly adapted from the [original one](https://gist.github.com/gravitino/0fd27d841c37cc25fe2032eafdc8feb2). The primary modifications are in the arguments passed to the plotting APIs in RAPIDS cuxfilter, such as line and scatter, due to API changes across different versions of cuxfilter. And here's a [variant version](https://github.com/nvahmadi/NVIDIA_IKIM_Workshop/blob/main/exercise4_zerocopy/interoperability_zerocopy.ipynb) used at another workshop (including code for plotting heartbeats sampled from latent space, link to a cheat sheet for data converting between frameworks, etc.). 
 
-- [Slide deck]() for presentation "Accelerated Data Science in Medicine with RAPIDS and more".
+- [Slide deck](RAPIDSandMore_2025Mar.pdf) for presentation "Accelerated data science in medicine with CuPy, RAPIDS & numba".
